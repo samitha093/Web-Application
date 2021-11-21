@@ -1,5 +1,5 @@
 # multi vendor shop script
-https://img.shields.io/github/issues/samitha093/Web-Application
+[![License: MIT](https://img.shields.io/github/issues/samitha093/Web-Application)
 
 This is a React base Script with Docker Environment for Web Application Project.
 
