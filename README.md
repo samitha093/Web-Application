@@ -1,6 +1,7 @@
 # multi vendor shop script
 ![issues: 0](https://img.shields.io/github/issues/samitha093/Web-Application)
 ![forks: 0](https://img.shields.io/github/forks/samitha093/Web-Application)
+![stars: 0](https://img.shields.io/github/stars/samitha093/Web-Application)
 
 This is a React base Script with Docker Environment for Web Application Project.
 
