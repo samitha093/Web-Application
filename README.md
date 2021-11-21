@@ -1,5 +1,5 @@
 # multi vendor shop script
-.. image:: https://img.shields.io/github/issues/samitha093/Web-Application   :alt: GitHub issues   :target: https://github.com/samitha093/Web-Application/issues
+https://img.shields.io/github/issues/samitha093/Web-Application
 
 This is a React base Script with Docker Environment for Web Application Project.
 
