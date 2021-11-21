@@ -10,7 +10,7 @@ This is a React base Script with Docker Environment for Web Application Project.
 
 Use docker Cli to Create this webapp 
 
-```bash
+```sh
 docker-compose up -d
 ```
 #### Preview
